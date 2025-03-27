@@ -14,5 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-fork надо открыть}
+    func hi(){
+        print(1)
+    }
+
+}
 
